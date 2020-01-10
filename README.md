@@ -1,2 +1,4 @@
 # Hellow_world
-its just a test.
+#in python
+Print('hello world')
+
